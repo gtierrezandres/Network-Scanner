@@ -1,2 +1,2 @@
-# nmap2.0
+# Network Scanner
 This is my self implementation of nmap
